@@ -33,10 +33,6 @@ kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic test --from-
 
 ```
 
-### 查看zk配置
-```aidl
-查看配置  get  /brokers/ids/0 
-```
 
 
 ### java maven 客户端，生产数据，消息数据
