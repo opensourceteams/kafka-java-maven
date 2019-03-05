@@ -1,4 +1,19 @@
 
+### 启动zookeeper
+```aidl
+zkServer.sh start
+```
+
+### 停止zookeeper
+```aidl
+zkServer.sh stop
+```
+### 查看zookeeper状态
+```aidl
+zkServer.sh status
+```
+
+
 
 ### 启动Kafka server
 
