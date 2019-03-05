@@ -40,4 +40,4 @@ kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic test --from-
 
 
 ### java maven 客户端，生产数据，消息数据
-- com.opensourceteams.module.kafka.example.producterconsumer.Run.main
+- https://github.com/opensourceteams/kafka-java-maven/blob/master/md/producter-consumer-example.md
